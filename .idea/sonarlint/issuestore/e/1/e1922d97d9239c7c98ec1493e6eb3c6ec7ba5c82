@@ -1,0 +1,23 @@
+
+T
+java:S2629;"7Use the built-in formatting to construct this argument.(ÒΊυ—8©όπ2
+k
+java:S1192"NDefine a constant instead of duplicating this literal "questionIndex" 4 times.(•Ρε°8©όπ2
+u
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ΝΆ¬™ϊÿÿÿÿ8©όπ2
+v
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(θΓ¨π8©όπ2
+u
+java:S1989""SHandle the following exception that could be thrown by "sendRedirect": IOException.(Σπ‡ξψÿÿÿÿ8©όπ2
+ƒ
+java:S1989)"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ρά”«ϊÿÿÿÿ8©όπ2
+u
+java:S19892"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ΝΆ¬™ϊÿÿÿÿ8©όπ2
+{
+java:S19896"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(μμΪÿÿÿÿÿ8©όπ2
+^
+java:S3457;"AFormat specifiers should be used instead of string concatenation.(ÒΊυ—8©όπ2
+u
+java:S1989@"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Σπ‡ξψÿÿÿÿ8©όπ2
+p
+java:S1989B"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ϋΡΕ8©όπ2
