@@ -2,6 +2,7 @@ package com.camelot692.webquiz2;
 
 import java.util.List;
 
+//Data Model Layer
 public class Question {
     private int questionNumber;
     private String questionText;

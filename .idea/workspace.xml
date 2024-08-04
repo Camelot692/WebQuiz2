@@ -10,47 +10,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb1dbd0b-01af-465c-bb7e-2493ea4d05e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db418bbc20a2f3ecfe6354f9cbfed34e35624ce1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3a606d3b26f2cd71828b8f6e4e6dbeeca11ecff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed0aef1afa6c6bd873372a39dd7e68a3ac5f9dbd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e6d3b70c9f5b02570779b0441540d45eceb0ded" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/b/db418bbc20a2f3ecfe6354f9cbfed34e35624ce1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/3/e3a606d3b26f2cd71828b8f6e4e6dbeeca11ecff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/d/ed0aef1afa6c6bd873372a39dd7e68a3ac5f9dbd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/DeleteAllServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/QuizServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/ResultServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/StartQuizServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/SubmitQuizServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/UploadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quizcsv_samples/01_present_simple_quiz.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quizcsv_samples/02_future_tenses_quiz.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quizcsv_samples/03_articles_quiz.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quizcsv_samples/quiz_001.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quizcsv_samples/quiz_002.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/quizcsv_samples/quiz_003.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/question.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/camelot692/webquiz2/QuestionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/QuizService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b4e163d0fa72b6ee4188ef3e71354e526173b1f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b4e163d0fa72b6ee4188ef3e71354e526173b1f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29c75f9c2ee96c9a789ccf41121d605d40483afe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29c75f9c2ee96c9a789ccf41121d605d40483afe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e22b6edd746fa3dc40ad7276c87c8d87d72a392" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44b6115a563b5f30b0a3f41b00168de91823b9d5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44b6115a563b5f30b0a3f41b00168de91823b9d5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb755cf7af48164af5bff480f67e9ff1a7d87ad4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb755cf7af48164af5bff480f67e9ff1a7d87ad4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1922d97d9239c7c98ec1493e6eb3c6ec7ba5c82" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1922d97d9239c7c98ec1493e6eb3c6ec7ba5c82" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3a606d3b26f2cd71828b8f6e4e6dbeeca11ecff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed0aef1afa6c6bd873372a39dd7e68a3ac5f9dbd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/3/e3a606d3b26f2cd71828b8f6e4e6dbeeca11ecff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/d/ed0aef1afa6c6bd873372a39dd7e68a3ac5f9dbd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/DeleteAllServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/DeleteAllServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/StartQuizServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/camelot692/webquiz2/StartQuizServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,18 +38,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-        <option value="Class" />
         <option value="CSS File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -80,9 +57,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ivUvamHJc1hJFPND23bT4DDgZE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -104,6 +81,7 @@
     "Tomcat Server.Tomcat 9.0.89.executor": "Run",
     "git-widget-placeholder": "dev__001",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/work/JavaRush/WebQuiz2_new_001_bug",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -225,11 +203,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720370777480</updated>
-      <workItem from="1720370778577" duration="1399000" />
+      <workItem from="1720370778577" duration="3321000" />
+      <workItem from="1721314773554" duration="3432000" />
+      <workItem from="1722707805767" duration="1255000" />
+      <workItem from="1722794380469" duration="2719000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

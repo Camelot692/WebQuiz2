@@ -1,5 +1,6 @@
 package com.camelot692.webquiz2;
 
+import com.camelot692.webquiz2.services.QuizService;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -27,17 +28,12 @@ public class StartQuizServlet extends HttpServlet {
             return;
         }
 
-        List<Question> questions = new ArrayList<>();
-        try (BufferedReader reader = new BufferedReader(new FileReader(quizFile))) {
-            String line;
-            while ((line = reader.readLine()) != null) {
-                String[] parts = line.split(";");
-                int questionNumber = Integer.parseInt(parts[0]);
-                String questionText = parts[1];
-                List<String> answers = Arrays.asList(parts[2], parts[3], parts[4], parts[5]);
-                int correctAnswer = Integer.parseInt(parts[6]);
-                questions.add(new Question(questionNumber, questionText, answers, correctAnswer));
-            }
+        List<Question> questions;
+        try {
+            // Use service layer for reading files
+            questions = QuizService.getQuestionsFromFile(quizFile);
+        } catch (IOException e) {
+            throw new ServletException("Error reading quiz file", e);
         }
 
         req.getSession().setAttribute("questions", questions);
