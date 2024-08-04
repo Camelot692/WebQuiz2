@@ -1,16 +1,0 @@
-
-p
-java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(­˜Ø›8±´çõ‘2
-p
-java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(­˜Ø›8²´çõ‘2
-c
-java:S1989$"AHandle the "ServletException" thrown here in a "try/catch" block.(ñ€³Õýÿÿÿÿ8²´çõ‘2
-j
-java:S2441'"MMake "List" and its parameters serializable or don't store it in the session.(ó¼ÜÉ8²´çõ‘2
-p
-java:S1989("SHandle the following exception that could be thrown by "sendRedirect": IOException.(õù³œ8²´çõ‘2
-M
-java:S1128
-"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8²´çõ‘2
-O
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8²´çõ‘2
